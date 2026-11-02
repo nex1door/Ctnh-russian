@@ -1,0 +1,16 @@
+{
+ "fml.menu.mods.filter_updates": "Показывать только моды с обновлениями",
+ "catalogue.gui.internal_libraries": "Показывать встроенные библиотеки",
+ "catalogue.gui.no_selection": "Мод не выбран…",
+ "catalogue.gui.mod_list": "Моды",
+ "catalogue.gui.search": "Поиск",
+ "catalogue.gui.config": "Настройки",
+ "catalogue.gui.open_mods_folder": "Открыть папку модов",
+ "catalogue.gui.licenses": "Лицензия: %s",
+ "catalogue.gui.authors": "Авторы: %s",
+ "catalogue.gui.contributors": "Участники: %s",
+ "catalogue.gui.credits": "Благодарности: %s",
+ "catalogue.gui.version": "Версия: %s",
+ "catalogue.gui.update_available": "Обновление: %s",
+ "catalogue.gui.info": "Это меню создано Catalogue. Нажмите, чтобы открыть страницу мода на CurseForge!"
+}

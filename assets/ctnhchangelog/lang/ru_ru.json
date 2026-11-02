@@ -1,0 +1,17 @@
+{
+ "ctnhchangelog.tab.title": "Список изменений",
+ "ctnhchangelog.button.changelog": "Список изменений",
+ "ctnhchangelog.button.view_changelog": "Двойной клик для подробностей",
+ "ctnhchangelog.type.major": "Крупное обновление",
+ "ctnhchangelog.type.minor": "Обновление функций",
+ "ctnhchangelog.type.patch": "Исправление",
+ "ctnhchangelog.type.hotfix": "Хотфикс",
+ "ctnhchangelog.type.danger": "Ваш файл мира может быть повреждён",
+ "ctnhchangelog.date": "Дата",
+ "ctnhchangelog.version": "Версия",
+ "ctnhchangelog.changes": "Изменения",
+ "ctnhchangelog.more_changes": "и ещё %s изменений...",
+ "ctnhchangelog.stats": "Всего версий: %s",
+ "ctnhchangelog.loading": "Загрузка...",
+ "ctnhchangelog.update_available": "Найдено обновление! Текущая версия: %s, последняя версия: %s"
+}

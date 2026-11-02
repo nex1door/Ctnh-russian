@@ -1,0 +1,5 @@
+{
+ "item.tiab.time_in_a_bottle": "бутылка времени",
+ "item.tiab.time_in_a_bottle.tooltip.stored_time": "Сохранено времени: %s:%s:%s",
+ "item.tiab.time_in_a_bottle.tooltip.total_accumulated_time": "Накоплено всего: %s:%s:%s"
+}

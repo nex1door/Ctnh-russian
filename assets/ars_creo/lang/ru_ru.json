@@ -1,0 +1,16 @@
+{
+ "block.ars_creo.starbuncle_wheel": "колесо старбанкла",
+ "ars_creo.page.starbuncle_wheel": "Создаёт вращательную силу для Create. Поставьте блок золота перед колесом, чтобы повысить скорость.",
+ "ars_creo.page.behaviors": "Ars Creo наделяет блоки Ars Nouveau — турели заклинаний, сосуды источника и прочие — особыми функциями на движущихся конструкциях. Обычная турель заклинаний: колдует при взаимодействии. Турель с таймером: колдует раз в заданный интервал. Зачарованная турель заклинаний: колдует каждую пройденную клетку. Сосуд источника: турели могут забирать из него источник.",
+ "itemGroup.ars_creo.general": "Ars Creo",
+ "ars_creo.display_source.turret.not_enough_space": "Недостаточно места для",
+ "ars_creo.display_source.turret.for_turret_status": "Показывает сведения о турели",
+ "ars_creo.display_source.turret.no_spell": "Заклинание не задано.",
+ "ars_creo.display_source.turret.spell_name": "Заклинание: %s",
+ "ars_creo.display_source.turret.spell": "%s",
+ "ars_creo.display_source.turret_target": "турель заклинаний",
+ "ars_creo.display_source.source_count": "Источник: %s",
+ "ars_creo.display_source.for_source_status": "Показывает сведения об источнике",
+ "ars_creo.display_source.source_jar": "Объём источника",
+ "ars_creo.display_source.turret": "Заклинание"
+}

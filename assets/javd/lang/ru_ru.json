@@ -1,0 +1,10 @@
+{
+ "block.portal.noLink": "Портал не связан. Нажмите ПКМ",
+ "block.portal.linked": "Портал связан с %s",
+ "block.javd.portal_block": "портал в пустоту",
+ "block.javd.void_portal_block": "портал в пустоту",
+ "biome.javd.void": "Пустота",
+ "block.javd.void_portal_block.name": "портал в пустоту",
+ "javd.invalid.pos": "Не удалось найти подходящее место для портала",
+ "javd.invalid.world": "Не удалось найти мир '%s'"
+}

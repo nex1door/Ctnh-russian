@@ -1,0 +1,10 @@
+{
+ "gui.cumulus_menus.button.menu_list": "Список меню",
+ "gui.cumulus_menus.title.menu_selection": "Выберите главное меню",
+ "config.cumulus_menus.client.menu.enable_menu_list_button": "Добавляет в правый верхний угол главного меню кнопку открытия экрана выбора меню",
+ "pack.cumulus_menus.mod.description": "Ресурсы Cumulus",
+ "config.cumulus_menus.client.menu.active_menu": "Задаёт текущий экран-заставку меню",
+ "gui.cumulus_menus.button.menu_launch": "Запустить меню",
+ "config.cumulus_menus.client.menu.enable_menu_api": "Определяет, включён ли Menu API",
+ "cumulus_menus.menu_title.minecraft": "Minecraft"
+}

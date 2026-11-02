@@ -1,0 +1,13 @@
+{
+ "k_all_fix.RenderOptimizer.EntityStartStopTickDistance": "Расстояние начала и остановки тика сущностей",
+ "k_all_fix.name": "KAllFix",
+ "k_all_fix.RenderOptimizer.EntityTickScaling": "Масштаб тика сущностей",
+ "k_all_fix.wait_server_send_pack": "Ожидание пакета завершения входа от сервера. Текущее состояние: [%s]",
+ "k_all_fix.RenderOptimizer.FixLivingEntity": "Исправление LivingEntity: %s",
+ "k_all_fix.wait_server_send_pack_ok": "Готово",
+ "k_all_fix.RenderOptimizer.OpenConfigGui": "Открыть интерфейс настроек",
+ "k_all_fix.RenderOptimizer.Enable": "Включено: %s",
+ "k_all_fix.RenderOptimizer.renderTickInfo": "Сущностей [%s], блоков сущностей [%s]",
+ "k_all_fix.RenderOptimizer.EntityStopTickDistance": "Расстояние остановки тика сущностей",
+ "k_all_fix.wait_server_send_pack_wait": "Ожидание"
+}

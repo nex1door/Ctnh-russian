@@ -1,0 +1,8 @@
+{
+ "block.ae2_ftbquest_detector.me_quests_detector": "Детектор квестов ME",
+ "ftbquests.task.ftbquests.fluid.consume_fluid": "Потребление жидкости",
+ "ae2-ftbquests-detector.detector.uncharged": "Устройство не подключено",
+ "ae2-ftbquests-detector.detector.no_owner": "Устройство без владельца",
+ "ae2-ftbquests-detector.detector.owner_is": "Команда владельца: %s",
+ "ae2-ftbquests-detector.detector.invalid_owner": "Команды владельца не существует"
+}

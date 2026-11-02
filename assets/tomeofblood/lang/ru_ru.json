@@ -1,0 +1,20 @@
+{
+ "alert.tomeofblood.no_lp": "Ваша душа слишком слаба…",
+ "ars_nouveau.school.bloodmagic": "Магия крови",
+ "effect.tomeofblood.serene": "Безмятежность",
+ "effect.tomeofblood.vulnerable": "Уязвимость",
+ "item.tomeofblood.apprentice_tome_of_blood": "фолиант крови ученика",
+ "item.tomeofblood.archmage_tome_of_blood": "фолиант крови архимага",
+ "item.tomeofblood.living_mage_boots": "сапоги отступника",
+ "item.tomeofblood.living_mage_hood": "капюшон отступника",
+ "item.tomeofblood.living_mage_leggings": "поножи отступника",
+ "item.tomeofblood.living_mage_robes": "мантия отступника",
+ "item.tomeofblood.mint_tea": "мятный чай",
+ "item.tomeofblood.novice_tome_of_blood": "фолиант крови новичка",
+ "itemGroup.tomeofblood.tome_of_blood": "Фолиант крови",
+ "living_upgrade.tomeofblood.mana_bonus": "Настройка маны",
+ "tomeofblood.glyph_desc.glyph_sentient_harm": "Атакует цель, расходуя волю демона (урон зависит от количества воли в инвентаре). Убитая цель оставляет первозданную волю.$(br2)При усилении длительности даёт разные эффекты зелья в зависимости от вида воли.$(br2)Первозданная: отравление$(br)Коррозия: иссушение$(br)Месть: слабость$(br)Стойкость: замедление$(br)Разрушение: уязвимость",
+ "tomeofblood.glyph_desc.glyph_sentient_wrath": "При первом попадании помечает цель. Удар по помеченной цели наносит массовый удар, сила которого зависит от количества воли, и помечает все цели. Расходует волю демона.$(br2)Если используется не первозданная воля, убийство даёт игроку бонус.$(br2)Коррозия: сопротивление$(br)Месть: скорость$(br)Стойкость: поглощение урона$(br)Разрушение: усиление урона от заклинаний",
+ "tomeofblood.glyph_name.glyph_sentient_harm": "Разумный вред",
+ "tomeofblood.glyph_name.glyph_sentient_wrath": "Разумный гнев"
+}

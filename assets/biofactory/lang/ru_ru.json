@@ -1,0 +1,7 @@
+{
+ "ability.biomancy.engineers_sight": "Инженерное зрение",
+ "ability.biomancy.engineers_sight.desc": "Показывает разную информацию о компонентах Create",
+ "fluid_type.biofactory.nutrients_fluid": "питательный раствор",
+ "item.biofactory.nutrients_fluid_bottle": "Бутылочка жидких питательных веществ",
+ "tab.biofactory.main": "Биофабрика"
+}

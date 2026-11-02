@@ -1,0 +1,18 @@
+{
+ "tconjei.tool_stats.harvest": "Характ. добычи",
+ "tconjei.tool_stats.ranged": "Характ. дальнего оружия",
+ "tconjei.tool_stats.armor": "Характ. брони",
+ "tconjei.tool_stats.skull": "Данные слизевого черепа",
+ "tconjei.tooltip.tier": "Уровень %s",
+ "tconjei.tooltip.material": "Материал",
+ "tconjei.tooltip.separator": "、",
+ "tconjei.tooltip.and": "",
+ "tconjei.tooltip.harvest": "материал инструмента для добычи.",
+ "tconjei.tooltip.ranged": "материал дальнего оружия.",
+ "tconjei.tooltip.armor": "материал брони.",
+ "tconjei.tooltip.skull": "Слизевый череп",
+ "tconjei.tooltip.harvest_ranged": " материал инструмента для добычи и дальнего оружия.",
+ "tconjei.tooltip.harvest_armor": " материал инструмента для добычи и брони.",
+ "tconjei.tooltip.harvest_ranged_armor": " материал инструмента для добычи, дальнего оружия и брони.",
+ "tconjei.tooltip.ranged_armor": " материал дальнего оружия и брони."
+}
